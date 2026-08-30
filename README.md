@@ -10,7 +10,7 @@ View · Pixel Design · Player · Composer — from instant image browsing to mu
 [![Framework: Tauri 2](https://img.shields.io/badge/Framework-Tauri_2-FFC140.svg)](https://v2.tauri.app/)
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-red.svg)](#license)
 [![Status: Preview](https://img.shields.io/badge/Status-Preview-orange.svg)](#roadmap)
-[![Pricing: $1/mo](https://img.shields.io/badge/Pricing-%241%2Fmo-1ca096.svg)](https://tenchsoft.com/pricing)
+[![Pricing: $2/mo](https://img.shields.io/badge/Pricing-%242%2Fmo-1ca096.svg)](https://tenchsoft.com/pricing)
 
 </div>
 
@@ -81,7 +81,7 @@ cargo run --locked -p view    # or: pixel-design, player, composer
 
 ## Pricing
 
-- **$1 / month per device** — every Tench Media + Tench Office app.
+- **$2 / month per device** — every Tench Media + Tench Office app.
 
 → https://tenchsoft.com/pricing
 
